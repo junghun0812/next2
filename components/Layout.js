@@ -37,7 +37,7 @@ export default function Layout({ title, children }) {
         <header>
           <nav className="flex flex-row h-12 items-center px-4 justify-between shadow-md bg-slate-200">
             <Link href="/">
-              <a className="text-lg font-bold">jinbin NextShop</a>
+              <a className="text-lg font-bold">junghun NextShop</a>
             </Link>
             <div>
               <Link href="/fofile">
